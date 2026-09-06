@@ -3,10 +3,10 @@
   "forecasts": {
     "2026-09-06": {
       "0": {
-        "forecast": "Sunny. Light winds.",
-        "icon_code": 1,
-        "precipitation_prob": "5%",
-        "precis": "Sunny.",
+        "forecast": "Mostly sunny. Light winds.",
+        "icon_code": 3,
+        "precipitation_prob": "0%",
+        "precis": "Mostly sunny.",
         "temp_max": 38,
         "temp_min": null
       },
@@ -129,9 +129,9 @@
       "2": {
         "forecast": "Mostly sunny. Light winds.",
         "icon_code": 3,
-        "precipitation_prob": "5%",
+        "precipitation_prob": "0%",
         "precis": "Mostly sunny.",
-        "temp_max": 39,
+        "temp_max": 38,
         "temp_min": 21
       },
       "3": {
@@ -177,11 +177,11 @@
     },
     "2026-09-09": {
       "3": {
-        "forecast": "Mostly sunny. Light winds becoming easterly 15 to 20 km/h during the afternoon then becoming light during the evening.",
-        "icon_code": 3,
+        "forecast": "Sunny. Light winds.",
+        "icon_code": 1,
         "precipitation_prob": "5%",
-        "precis": "Mostly sunny.",
-        "temp_max": 38,
+        "precis": "Sunny.",
+        "temp_max": 37,
         "temp_min": 20
       },
       "4": {
@@ -215,7 +215,7 @@
         "icon_code": 3,
         "precipitation_prob": "5%",
         "precis": "Mostly sunny.",
-        "temp_max": 36,
+        "temp_max": 37,
         "temp_min": 21
       },
       "5": {
@@ -239,7 +239,7 @@
       "5": {
         "forecast": "Partly cloudy. Light winds becoming easterly 15 to 20 km/h during the morning.",
         "icon_code": 3,
-        "precipitation_prob": "5%",
+        "precipitation_prob": "10%",
         "precis": "Partly cloudy.",
         "temp_max": 35,
         "temp_min": 21
@@ -257,9 +257,9 @@
       "6": {
         "forecast": "Mostly sunny. Light winds becoming easterly 15 to 20 km/h during the morning.",
         "icon_code": 3,
-        "precipitation_prob": "5%",
+        "precipitation_prob": "10%",
         "precis": "Mostly sunny.",
-        "temp_max": 35,
+        "temp_max": 34,
         "temp_min": 21
       },
       "7": {
