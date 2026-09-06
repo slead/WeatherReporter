@@ -16796,6 +16796,72 @@
         "temp_max": 38,
         "temp_min": 22
       }
+    },
+    "2026-09-06": {
+      "0": {
+        "forecast": "Clear. Light winds.",
+        "icon_code": 2,
+        "precipitation_prob": "0%",
+        "precis": "Clear.",
+        "temp_max": 38,
+        "temp_min": null
+      },
+      "1": {
+        "forecast": "Sunny. Light winds.",
+        "icon_code": 1,
+        "precipitation_prob": "5%",
+        "precis": "Sunny.",
+        "temp_max": 38,
+        "temp_min": 22
+      },
+      "2": {
+        "forecast": "Sunny. Light winds.",
+        "icon_code": 1,
+        "precipitation_prob": "5%",
+        "precis": "Sunny.",
+        "temp_max": 38,
+        "temp_min": 21
+      },
+      "3": {
+        "forecast": "Mostly sunny. Light winds.",
+        "icon_code": 3,
+        "precipitation_prob": "5%",
+        "precis": "Mostly sunny.",
+        "temp_max": 38,
+        "temp_min": 21
+      },
+      "4": {
+        "forecast": "Mostly sunny. Light winds.",
+        "icon_code": 3,
+        "precipitation_prob": "5%",
+        "precis": "Mostly sunny.",
+        "temp_max": 37,
+        "temp_min": 21
+      },
+      "5": {
+        "forecast": "Mostly sunny. Light winds.",
+        "icon_code": 3,
+        "precipitation_prob": "5%",
+        "precis": "Mostly sunny.",
+        "temp_max": 37,
+        "temp_min": 22
+      },
+      "6": {
+        "forecast": "Partly cloudy. Light winds.",
+        "icon_code": 3,
+        "precipitation_prob": "5%",
+        "precis": "Partly cloudy.",
+        "temp_max": 38,
+        "temp_min": 21
+      },
+      "7": {
+        "forecast": "Mostly sunny. Light winds.",
+        "icon_code": 3,
+        "precipitation_prob": "5%",
+        "precis": "Mostly sunny.",
+        "temp_max": 37,
+        "temp_min": 21
+      }
     }
   },
   "product_id": "IDD10202",

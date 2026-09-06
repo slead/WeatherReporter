@@ -17116,6 +17116,64 @@
         "temp_max": 19,
         "temp_min": 9
       }
+    },
+    "2026-09-06": {
+      "0": {
+        "forecast": "Partly cloudy. Light winds.",
+        "icon_code": 3,
+        "precipitation_prob": "10%",
+        "precis": "Partly cloudy.",
+        "temp_max": 19,
+        "temp_min": null
+      },
+      "1": {
+        "forecast": "Partly cloudy. Medium chance of showers, most likely in the early morning. Winds westerly 30 to 40 km/h decreasing to 20 to 30 km/h before dawn then becoming west to southwesterly and light in the late afternoon.",
+        "icon_code": 11,
+        "precipitation_prob": "50%",
+        "precis": "Shower or two.",
+        "temp_max": 19,
+        "temp_min": 10
+      },
+      "2": {
+        "forecast": "Partly cloudy. Medium chance of showers, most likely in the morning. Winds westerly 30 to 45 km/h tending southwesterly 15 to 25 km/h during the afternoon then becoming light during the evening.",
+        "icon_code": 17,
+        "precipitation_prob": "40%",
+        "precis": "Possible shower. Wind easing.",
+        "temp_max": 18,
+        "temp_min": 10
+      },
+      "3": {
+        "forecast": "Partly cloudy. Slight chance of a shower, most likely in the morning. Winds westerly 25 to 35 km/h tending southwesterly 15 to 25 km/h during the afternoon then becoming light during the evening.",
+        "icon_code": 3,
+        "precipitation_prob": "30%",
+        "precis": "Partly cloudy.",
+        "temp_max": 18,
+        "temp_min": 9
+      },
+      "4": {
+        "forecast": "Partly cloudy. Slight chance of a shower, most likely during the morning. Winds westerly 20 to 30 km/h tending southwesterly 15 to 20 km/h during the day.",
+        "icon_code": 3,
+        "precipitation_prob": "30%",
+        "precis": "Partly cloudy.",
+        "temp_max": 18,
+        "temp_min": 10
+      },
+      "5": {
+        "forecast": "Cloudy. Slight chance of a shower. Winds westerly 15 to 25 km/h turning southerly 15 to 20 km/h during the day.",
+        "icon_code": 4,
+        "precipitation_prob": "30%",
+        "precis": "Cloudy.",
+        "temp_max": 17,
+        "temp_min": 8
+      },
+      "6": {
+        "forecast": "Partly cloudy. Medium chance of showers. Winds westerly 15 to 20 km/h tending southwesterly during the day.",
+        "icon_code": 17,
+        "precipitation_prob": "40%",
+        "precis": "Possible shower.",
+        "temp_max": 17,
+        "temp_min": 8
+      }
     }
   },
   "product_id": "IDV10719",

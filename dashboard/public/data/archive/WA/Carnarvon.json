@@ -16796,6 +16796,72 @@
         "temp_max": 24,
         "temp_min": 13
       }
+    },
+    "2026-09-06": {
+      "0": {
+        "forecast": "Clear. Winds southerly 25 to 30 km/h.",
+        "icon_code": 2,
+        "precipitation_prob": "0%",
+        "precis": "Clear.",
+        "temp_max": 23,
+        "temp_min": null
+      },
+      "1": {
+        "forecast": "Medium chance of showers in the morning. Sunny afternoon. Winds southwesterly 30 to 35 km/h tending southerly 25 to 40 km/h in the morning.",
+        "icon_code": 11,
+        "precipitation_prob": "50%",
+        "precis": "Morning shower or two.",
+        "temp_max": 23,
+        "temp_min": 15
+      },
+      "2": {
+        "forecast": "Medium chance of showers, most likely in the morning. Sunny afternoon. Winds southwesterly 25 to 35 km/h tending southerly during the morning.",
+        "icon_code": 11,
+        "precipitation_prob": "50%",
+        "precis": "Shower or two then sunny.",
+        "temp_max": 23,
+        "temp_min": 15
+      },
+      "3": {
+        "forecast": "Medium chance of showers, most likely in the morning. Sunny afternoon. Winds southwesterly 25 to 35 km/h tending southerly during the morning.",
+        "icon_code": 11,
+        "precipitation_prob": "60%",
+        "precis": "Shower or two then sunny.",
+        "temp_max": 23,
+        "temp_min": 14
+      },
+      "4": {
+        "forecast": "Medium chance of showers, most likely during the morning. Mostly sunny afternoon. Winds southwesterly 25 to 30 km/h tending southerly 25 to 40 km/h during the morning.",
+        "icon_code": 11,
+        "precipitation_prob": "50%",
+        "precis": "Shower or two.",
+        "temp_max": 23,
+        "temp_min": 14
+      },
+      "5": {
+        "forecast": "Partly cloudy. Slight chance of a shower during the morning. Winds southwesterly 25 to 30 km/h turning south to southeasterly 20 to 30 km/h during the morning.",
+        "icon_code": 3,
+        "precipitation_prob": "30%",
+        "precis": "Partly cloudy.",
+        "temp_max": 23,
+        "temp_min": 13
+      },
+      "6": {
+        "forecast": "Slight chance of a shower during the morning. Mostly sunny afternoon. Winds southeast to southwesterly 20 to 30 km/h.",
+        "icon_code": 3,
+        "precipitation_prob": "20%",
+        "precis": "Partly cloudy.",
+        "temp_max": 24,
+        "temp_min": 13
+      },
+      "7": {
+        "forecast": "Mostly sunny. Slight chance of a shower. Winds south to southeasterly 20 to 30 km/h.",
+        "icon_code": 1,
+        "precipitation_prob": "20%",
+        "precis": "Sunny.",
+        "temp_max": 25,
+        "temp_min": 12
+      }
     }
   },
   "product_id": "IDW14106",
